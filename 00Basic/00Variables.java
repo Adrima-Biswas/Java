@@ -31,6 +31,7 @@ public class Intro {
 	public static void main(String[] args) {
 		int a = 95; // dataType : int, variablename : a, data value: 95
 		System.out.print(a);
+		
 	}
 	
 }
