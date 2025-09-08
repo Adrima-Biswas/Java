@@ -30,6 +30,8 @@ class Main{
 	
 	    System.out.println("value of a : "+a);
 	    System.out.println("value of b : "+b);   
+		
 	}
+	
 
 }
