@@ -1,4 +1,4 @@
-\import java.util.Scanner;
+import java.util.Scanner;
 public class Aopr{
 	public static int sum(int x , int y){ // x = 6 , y = 2
 		int S = x + y; // s = 6 + 2
