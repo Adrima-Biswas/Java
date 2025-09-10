@@ -31,6 +31,8 @@ public class Aopr{
 		System.out.println("div of "+a+" and "+b+" : "+ans3);
 		System.out.println("mul of "+a+" and "+b+" : "+ans4);
 	}
+
+	
 }
 
 
