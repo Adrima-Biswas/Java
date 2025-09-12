@@ -4,18 +4,22 @@ public class Aopr{
 		int S = x + y; // s = 6 + 2
 		return S; // 8
 	}
+	
 	public static int sub(int a , int b){ // a = 6 ; b = 2
 		int m = a - b; // m = 6 - 2
 		return m; // 4
 	}
+	
 	public static int div(int p , int q){ // p = 6 , q = 2
 		int r = p / q; // r = 6/2
 		return r; // 3
 	}
+	
 	public static int mul(int v , int i){ // v = 6 , i = 2
 		int d = v * i; // d = 6*2
 		return d; // 12
 	}
+	
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
 		System.out.print("enter the value a b: ");  // 6 2
@@ -31,8 +35,6 @@ public class Aopr{
 		System.out.println("div of "+a+" and "+b+" : "+ans3);
 		System.out.println("mul of "+a+" and "+b+" : "+ans4);
 	}
-
-	
 }
 
 
