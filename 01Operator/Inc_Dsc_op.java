@@ -1,7 +1,7 @@
 class Test {
       public static void main(String[] args) {
-       // a++ : Returns the current value of a, then increments a by 1.
-      // ++a : Increments a by 1 first, then returns the updated value.
+          // a++ : Returns the current value of a, then increments a by 1.
+          // ++a : Increments a by 1 first, then returns the updated value.
           int a=3;
           a=a++; // a = 3 then incre a 3 to 4
           System.out.println("Post-Increment a: " +a);
