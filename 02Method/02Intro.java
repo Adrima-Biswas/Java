@@ -28,6 +28,7 @@
 */
 
 // A Simple Method that Doesn't Return Anything (void):  type1
+
 class Main {
 	public static void sum() {   // It doesn't return anything, 
 		int a = 4, b = 9;		 // in this we mainly write some operations and print them
@@ -68,6 +69,5 @@ class Main {
 		int result = multiplication(a,b);
 	}
 }
-
 
 // tupe4
