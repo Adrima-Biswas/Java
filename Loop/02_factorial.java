@@ -1,5 +1,5 @@
 import java.util.*;
-class factorial{
+class Factorial{
 	public static void main(String agr[]) {
 		  Scanner sc = new Scanner(System.in);
 	      System.out.print("Enter n : ");
