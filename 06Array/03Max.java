@@ -13,6 +13,7 @@ public class Main
 	            }
 	        }
 	        answer[i] = max;
+			
 	    }
 	    
 	    return answer;
