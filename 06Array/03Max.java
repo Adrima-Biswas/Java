@@ -30,6 +30,7 @@ public class Main
 	    
         int[] ans = maxRevenue(records);
         System.out.println("\nmaximum revenues: "+Arrays.toString(ans));
+		
 	}
 	
 }
