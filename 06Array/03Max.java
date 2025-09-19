@@ -12,6 +12,7 @@ public class Main
 	                max = salesRecord[i][j];
 	            }
 	        }
+			
 	        answer[i] = max;
 			
 	    }
