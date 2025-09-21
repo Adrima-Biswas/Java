@@ -28,6 +28,7 @@ public class Main1 {
         System.out.println(p.age);
         System.out.println(p.name);
         System.out.println(p.salary);
+        
     }
 }
 
