@@ -3,6 +3,7 @@
  2. constructor
 */
 class Pen{
+	
     int price;
     String colour;
     
