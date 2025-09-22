@@ -34,6 +34,7 @@ public class Main
 	   // pentonic.price = 10; 
 	   // pentonic.colour = "black"; 
 	    pentonic.setDetails(10, "black");
+		
 	    
 	    pentonic.getDetails();
 	    pentonic.personalDetails();
