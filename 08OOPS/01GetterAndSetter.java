@@ -39,5 +39,6 @@ public class Main
 	    pentonic.personalDetails();
 	    
 // 		System.out.println(pentonic.price);
+		
 	}
 }
