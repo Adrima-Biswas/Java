@@ -16,5 +16,6 @@ catch(err) {
   console.log("Somthing Wrong");
 }
 console.log("Welcome 1");
+
 console.log("Welcome 2");
 
