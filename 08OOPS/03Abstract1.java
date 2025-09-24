@@ -5,6 +5,7 @@ abstract class Animal{
         System.out.println("Zzz..!");
 		
     }
+	
 }
 class Pig extends Animal{
     int num = 90;
