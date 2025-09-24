@@ -22,6 +22,7 @@ public class Main
 	    Animal a = new Pig();
 	    System.out.println(a.num); // To access num variable we need to create reference of Pig class
 	   // a.animalSound();
+		
 	}
 }
 
