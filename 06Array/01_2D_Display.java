@@ -1,11 +1,10 @@
-
-public class 2D_display
-{
+public class 2D_display {
 	public static void main(String[] args) {
-	    int [][] arr = {{1,2,3},
-	                {4,5,6},
-	                {7,8,9}
-	    };
+		    int [][] arr = {{1,2,3},
+		                {4,5,6},
+		                {7,8,9}
+		    };
+		
 	        int n = 3;  // number of row  ==> arr.length
 	        int m = 3;  // number of column ==> arr[0].length
 	        
@@ -15,7 +14,6 @@ public class 2D_display
 	            }
 	            System.out.println();
 	        }
-	    }
-	
 	}
+}
 
