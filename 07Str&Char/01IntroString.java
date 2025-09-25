@@ -8,8 +8,7 @@
            String str = "abc"; >> str.charAt(0) = a; str.length() = 3
     4. String is a immutable.
 */
-public class Main
-{
+public class Main {
 	public static void main(String[] args) {
 	    // String declaration in java
 	    String str1 = "Hello World";
