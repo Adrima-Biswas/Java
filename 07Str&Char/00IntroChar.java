@@ -9,12 +9,9 @@
 	2. Every character is associated with a specific number called ASCII code.
 */
 
-
-class Main
-{
+class Main {
 	public static void main(String[] args) {
-		
-// 	    char ch = 'K'; // 'A', '@', '1',,,,, 'a' = 97 , 'A' = 65
+	    // char ch = 'K'; // 'A', '@', '1',,,,, 'a' = 97 , 'A' = 65
 		System.out.println(ch); 
 	}
 }
