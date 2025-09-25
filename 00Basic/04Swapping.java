@@ -8,22 +8,22 @@ class Main{
 	    a = 1;
 	    b = 2;
 
-	    // By using third variable
-	    // int temp = a;
-	    // a = b;
-	    // b = temp;
+	    // Method 1: By using third variable
+	    int temp = a;
+	    a = b;
+	    b = temp;
 
-	    //by using + -
+	    // Method 2: by using + -
         a = a + b; // 1 + 2
         b = a - b; // 1 + 2 - 2 = 1
         a = a - b; // 1 + 2 - 1 = 2
 
-        // by using * /
+        // Method 3: by using * /
         a = a * b; 
         b = a / b;
         a = a / b;
 
-        // by using ^ (xor)
+        // Method 4: by using ^ (xor)
         a = a ^ b;
         b = a ^ b; 
         a = a ^ b;
