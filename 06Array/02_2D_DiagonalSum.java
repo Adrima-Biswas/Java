@@ -1,8 +1,6 @@
 import java.util.Scanner;
-public class Main
-{
+public class Main {
 	public static void main(String[] args) {
-	    
 	    Scanner sc = new Scanner(System.in);
 	    int[][] arr= new int[3][3];
 	    System.out.println("enter then value: ");
@@ -21,7 +19,6 @@ public class Main
 		        System.out.print(arr[i][j]+" ");
 		    }
 		    System.out.println();
-		    
 		}
 		System.out.println("sum "+sum);
 	}
