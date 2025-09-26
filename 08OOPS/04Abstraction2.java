@@ -22,6 +22,7 @@ class Circle extends Shape{
         System.out.println("area of circle: "+a);
 		
     }
+	
 }
 
 class Rectangle extends Shape{
