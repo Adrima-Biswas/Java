@@ -20,6 +20,7 @@ class Circle extends Shape{
     public void area(){
         double a = Math.PI * Math.pow(radius,2);
         System.out.println("area of circle: "+a);
+		
     }
 }
 
