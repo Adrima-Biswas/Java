@@ -59,7 +59,8 @@ public class Main
 	   // r.b = 5;
 	    r.perimeter();
 	    r.area();
-	    
+
+		
 	}
 }
 
