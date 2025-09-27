@@ -14,6 +14,7 @@ public class Main
 	    
 	    Test<Boolean> t3 = new Test<>();  // third-party
 	    t3.num = false;
+		
 	    
 		System.out.println(t1.num+"\t"+t2.num+"\t"+t3.num);
 		
