@@ -15,4 +15,5 @@ public class Main
 	    
 		System.out.println(t1.num+"\t"+t2.num+"\t"+t3.num);
 	}
+	
 }
