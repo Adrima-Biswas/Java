@@ -9,6 +9,7 @@ public class Main
 	    
 	    Test<Double> t2 = new Test<>();  // by mridu
 	    t2.num = 3.14;	    
+		
 	    
 	    Test<Boolean> t3 = new Test<>();  // third-party
 	    t3.num = false;
