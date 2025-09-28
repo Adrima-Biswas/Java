@@ -25,6 +25,7 @@ class Library {
         System.out.println("Library: " + name);
         for (Book book : books) {
             book.display();
+            
         }
     }
 }
