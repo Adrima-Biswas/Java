@@ -1,7 +1,6 @@
 /*
 	1. A variable is a container used to store data values(14, Adrima). -->
 	2. Each variable in Java is associated with a specific 
-	
 	   data type that determines the kind of data it can hold. -->
 	3. Syntax:
 				dataType variableName;
