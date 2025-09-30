@@ -5,6 +5,7 @@
 	3. Syntax:
 				dataType variableName;
 
+
 				where,
 					dataType: Specifies the type of data the variable 
 							  can hold (e.g., int, double, String, etc.).
