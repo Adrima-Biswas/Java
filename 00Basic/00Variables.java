@@ -25,6 +25,7 @@
 	5. Starting of Variable Name => ( $ , _ , a-z , A-Z );
        Remaining of variable Name = ( a-z , A-Z ,Integer Numbers , $ , _ );
        Example:-
+	   
 	    		int $ = 12;
         		int _ = 46;
         		int Ab@c = 8; ----> Error!
