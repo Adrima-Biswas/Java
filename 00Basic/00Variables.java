@@ -17,6 +17,7 @@
 					int a = 46; --> It's Ok
 
 
+
 	4. Types of Variables in Java
 		a.Local Variables
 		b.Instance Variables (Non-static fields)
