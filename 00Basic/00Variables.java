@@ -1,4 +1,5 @@
 /*
+
 	1. A variable is a container used to store data values(14, Adrima). -->
 	
 	2. Each variable in Java is associated with a specific 
