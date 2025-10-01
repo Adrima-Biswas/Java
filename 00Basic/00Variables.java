@@ -3,6 +3,7 @@
 	
 	2. Each variable in Java is associated with a specific 
 
+
 	   data type that determines the kind of data it can hold. -->
 	   
 	3. Syntax:
