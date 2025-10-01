@@ -40,5 +40,6 @@ public class Intro {
 		int a = 95; // dataType : int, variablename : a, data value: 95
 		System.out.print(a);
 		
+
 	}
 }
