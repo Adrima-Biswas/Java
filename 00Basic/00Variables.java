@@ -24,6 +24,7 @@
 		b.Instance Variables (Non-static fields)
 		c.Class Variables (Static fields)
 
+
 	5. Starting of Variable Name => ( $ , _ , a-z , A-Z );
        Remaining of variable Name = ( a-z , A-Z ,Integer Numbers , $ , _ );
        Example:-
