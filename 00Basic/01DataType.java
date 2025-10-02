@@ -27,6 +27,7 @@
 				Class: A user-defined blueprint or prototype for creating objects.(e.g., String, System)
 
 				Interface: A contract for what a class can do but without providing the implementation.
+
 				Array: A collection of similar types of objects.
 */
 
