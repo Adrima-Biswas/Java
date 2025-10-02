@@ -3,6 +3,7 @@
 
 	2. Types of Data Types in Java:
 		a.Primitive Data Type : These are the basic data types 
+
 								built into the Java language. 
 								They are not objects and represent raw values.
 								Example : 
