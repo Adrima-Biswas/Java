@@ -6,6 +6,7 @@
 
 								built into the Java language. 
 								They are not objects and represent raw values.
+
 								Example : 
 								   Data Type     Size      Default value
 									Byte      :  1 byte  :     0          // Byte a; [a = 0]
