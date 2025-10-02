@@ -1,5 +1,6 @@
 /*
 	1. A data type defines the type of data a variable can store.
+
 	2. Types of Data Types in Java:
 		a.Primitive Data Type : These are the basic data types 
 								built into the Java language. 
