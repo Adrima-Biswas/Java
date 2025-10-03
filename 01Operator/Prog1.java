@@ -8,6 +8,7 @@ class Main
 	       boolean b2 = (4 > 4);
 
 	       boolean b = (4 != 4);
+
 	       System.out.print(b);
 	   } 
 	   
