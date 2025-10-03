@@ -15,6 +15,7 @@ class Main
 	   { 
 		   // Logical Operator : && , || , !
 	       boolean b1 = (4 > 7) && (6 != 0);
+
 	       boolean b2 = (4 > 7) || (6 != 6);
 	       boolean b = !(4 > 7);
 	       System.out.print(b); 
