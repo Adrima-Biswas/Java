@@ -17,6 +17,7 @@ public class Aopr{
 	public static int div(int p , int q){ // p = 6 , q = 2
 		int r = p / q; // r = 6/2
 		return r; // 3
+		
 	}
 	
 	public static int mul(int v , int i){ // v = 6 , i = 2
