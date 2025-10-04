@@ -42,6 +42,7 @@ public class Aopr{
 		System.out.println("mul of "+a+" and "+b+" : "+ans4);
 		
 	}
+	
 }
 
 
