@@ -23,6 +23,7 @@ public class Aopr{
 	public static int mul(int v , int i){ // v = 6 , i = 2
 		int d = v * i; // d = 6*2
 		return d; // 12
+		
 	}
 	
 	public static void main(String[] args){
