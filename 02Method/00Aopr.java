@@ -5,6 +5,7 @@ public class Aopr{
 	public static int sum(int x , int y){ // x = 6 , y = 2
 		int S = x + y; // s = 6 + 2
 		return S; // 8
+		
 	}
 	
 	public static int sub(int a , int b){ // a = 6 ; b = 2
