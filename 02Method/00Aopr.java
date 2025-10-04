@@ -11,6 +11,7 @@ public class Aopr{
 	public static int sub(int a , int b){ // a = 6 ; b = 2
 		int m = a - b; // m = 6 - 2
 		return m; // 4
+		
 	}
 	
 	public static int div(int p , int q){ // p = 6 , q = 2
