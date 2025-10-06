@@ -9,6 +9,7 @@ public class Aopr{
 		int S = x + y; // s = 6 + 2
 		return S; // 8
 		
+
 	}
 	
 	public static int sub(int a , int b){ // a = 6 ; b = 2
