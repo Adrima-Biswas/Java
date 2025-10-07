@@ -9,6 +9,7 @@ class Main
     public static void fun2() {
         System.out.println("you are in fun 2");
         fun3();
+        
     }  
     
     public static void fun1() {
