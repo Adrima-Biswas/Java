@@ -15,6 +15,7 @@ class Main
     public static void fun1() {
         System.out.println("you are in fun 1");
         fun2();
+        
     }
     
     public static void main(String[] args) {
