@@ -22,5 +22,4 @@ class Main
         fun1();
         
     }
-    
 }
