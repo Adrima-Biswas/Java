@@ -1,4 +1,5 @@
 class Main 
+    
 {
     public static void fun3() {
         System.out.println("you are in fun 3");
